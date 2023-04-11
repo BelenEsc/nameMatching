@@ -90,7 +90,7 @@ public class UniformNames extends Normalization {
 		
 	
 		inputName.trimCommonLeadingChar(inputName.replacedEnding(), stringDataBase);
-		System.out.println("restant string from the inputname " + inputName.getRestantInputName ()+" restant string of the database name " + inputName.getRestantDatabaseName());
+		System.out.println("restant string from the inputname " + inputName.getRestantInputName ()+" restant string of the database name: " + inputName.getRestantDatabaseName());
 		
 		
 		inputName.trimLastChar(inputName.getRestantInputName (),inputName.getRestantDatabaseName());
