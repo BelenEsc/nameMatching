@@ -52,7 +52,7 @@ public class UniformNames extends Normalization {
 		
 		inputName.splitFirstChar(inputName.getReplaceIntialChar());
 		
-		System.out.println("the first letter in the name is : " + inputName.firstCharName());
+		System.out.println("the first letter in the name is: " + inputName.firstCharName());
 		System.out.println("the remainin part is: " + inputName.remainiName());
 		
 		inputName.soundalike(inputName.remainiName(), "ae", "e");
