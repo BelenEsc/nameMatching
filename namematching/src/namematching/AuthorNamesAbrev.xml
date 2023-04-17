@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<replacements>
+  <replacement>
+    <input>this</input>
+    <input>string</input>
+    <output>este</output>
+  </replacement>
+  <replacement>
+    <input>simple</input>
+    <output>facil</output>
+  </replacement>
+  <replacement>
+    <input>is</input>
+    <output>es </output>
+  </replacement>
+</replacements>

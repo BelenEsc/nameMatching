@@ -264,13 +264,6 @@ public class Normalization {
 		return distanceMatrix[str1.length()][str2.length()];
 	}
 	
-	
-	
-	
-	
-	
-	
-
 }
 
 
