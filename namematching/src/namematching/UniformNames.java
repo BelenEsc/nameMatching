@@ -1,6 +1,3 @@
-
-
-
 package namematching;
 
 public class UniformNames extends Normalization {
@@ -9,6 +6,7 @@ public class UniformNames extends Normalization {
 
 		String externalName = "gynöxeysfwdsdvgrdrandom";
 		String stringDataBase = "gynoxysvdrsfdrvxrandom";
+		int ngram=3; 
 
 		String outputName;
 
@@ -98,13 +96,8 @@ public class UniformNames extends Normalization {
 				inputName.getRestantInputName () + "\nafter trimming the ending similar characters of the database name " + inputName.getRestantDatabaseName());
 		System.out.println(Normalization.modifiedDamerauLevenshteinDistance(inputName.getRestantInputName (), inputName.getRestantDatabaseName()));
 	
-	
-	
-	
-	
-	
-	
+		//inputName.StringInNgrams(externalName, ngram);
+		
 	}
-	
-	
+
 }

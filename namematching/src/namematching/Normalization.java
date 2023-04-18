@@ -201,14 +201,13 @@ public class Normalization {
 
 	}
 
-	public String getRestantInputName () {
+	public String getRestantInputName() {
 		return inputName;
 	}
-	public String getRestantDatabaseName () {
+
+	public String getRestantDatabaseName() {
 		return databaseName;
 	}
-	
-	
 
 	public void trimLastChar(String inputName, String databaseName) {
 		int inputNameLenght = inputName.length();
@@ -224,8 +223,8 @@ public class Normalization {
 			this.databaseName = databaseName.substring(0, databaseNameLenght - i - 1);
 		}
 
-	}	
-	
+	}
+
 	public static int modifiedDamerauLevenshteinDistance(String str1, String str2) {
 
 		if (str1 == str2) {
@@ -263,7 +262,16 @@ public class Normalization {
 
 		return distanceMatrix[str1.length()][str2.length()];
 	}
-	
+
+//	public void StringInNgrams(String inputName, int ngram) {
+//
+//		temp = "  " + inputName + "  ";
+//		String[] ngrams = new String[temp.length() + 5];
+//
+//		for (int i = 0; i < temp.length(); i++) {
+//
+//			ngrams[i] = temp.substring(i, i + ngram);
+//			System.out.println(ngrams[i]);
+//		}
+//	}
 }
-
-

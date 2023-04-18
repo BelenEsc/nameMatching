@@ -21,10 +21,6 @@
 		<output>A.A.Ham.</output>
 	</replacement>
 	<replacement>
-		<input>A. A. Henderson</input>
-		<output>A.A.Hend.</output>
-	</replacement>
-	<replacement>
 		<input>Angela Agostini</input>
 		<output>A.Agostini</output>
 	</replacement>

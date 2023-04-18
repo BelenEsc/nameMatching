@@ -13,10 +13,10 @@ public class AuthorNamesAbrev {
 
 	public static void main(String[] args) {
 
+		String input = "Andrew A. Burbidge";
+		String pathToXML="C:/Users/belen/git/nameMatching/namematching/src/namematching/AuthorNamesAbrev.xml"; 
 		try {
-			String input = "hola";
-
-			File xmlFile = new File("C:/Users/belen/git/nameMatching/namematching/src/namematching/AuthorNamesAbrev.xml");
+			File xmlFile = new File(pathToXML);
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 			Document doc = dBuilder.parse(xmlFile);
