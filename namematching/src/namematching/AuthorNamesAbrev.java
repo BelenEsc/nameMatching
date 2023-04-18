@@ -14,7 +14,7 @@ public class AuthorNamesAbrev {
 	public static void main(String[] args) {
 
 		try {
-			String input = "This is a sample input string.";
+			String input = "hola";
 
 			File xmlFile = new File("C:/Users/belen/git/nameMatching/namematching/src/namematching/AuthorNamesAbrev.xml");
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
