@@ -91,7 +91,7 @@ public class UniformNames extends Normalization {
 		System.out.println("restant string from the inputname " + inputName.getRestantInputName ()+" restant string of the database name: " + inputName.getRestantDatabaseName());
 		
 		
-		inputName.trimLastChar(inputName.getRestantInputName (),inputName.getRestantDatabaseName());
+		inputName.trimCommLastChar(inputName.getRestantInputName (),inputName.getRestantDatabaseName());
 		System.out.println( "after trimming the ending similar characters of the input name: " +
 				inputName.getRestantInputName () + "\nafter trimming the ending similar characters of the database name " + inputName.getRestantDatabaseName());
 		System.out.println(Normalization.modifiedDamerauLevenshteinDistance(inputName.getRestantInputName (), inputName.getRestantDatabaseName()));

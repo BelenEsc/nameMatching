@@ -209,7 +209,7 @@ public class Normalization {
 		return databaseName;
 	}
 
-	public void trimLastChar(String inputName, String databaseName) {
+	public void trimCommLastChar(String inputName, String databaseName) {
 		int inputNameLenght = inputName.length();
 		int databaseNameLenght = databaseName.length();
 		int shortestString = Math.min(inputNameLenght, databaseNameLenght);
