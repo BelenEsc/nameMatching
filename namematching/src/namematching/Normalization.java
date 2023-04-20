@@ -1,6 +1,11 @@
 package namematching;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class Normalization {
 
@@ -13,6 +18,7 @@ public class Normalization {
 	private String lastTwoChar;
 	private String firstPartString;
 	private String databaseName;
+	private int distance;
 
 	public Normalization() {
 
@@ -132,9 +138,7 @@ public class Normalization {
 
 				str[index++] = str[i];
 			}
-
 		}
-
 		temp2 = String.valueOf(Arrays.copyOf(str, index));
 		temp2 = temp2 + str[n - 1];
 	}
@@ -263,6 +267,33 @@ public class Normalization {
 		return distanceMatrix[str1.length()][str2.length()];
 	}
 
+	public void recordMatches(String query) {
+
+		List<String> DataBaseString = new ArrayList<>();
+		DataBaseString.add("GynDatBas");
+		DataBaseString.add("GenusDataBase");
+		DataBaseString.add("Gynoxys");
+
+		Map<Integer, String> distanceMap = new HashMap<>();
+
+/// 
+
+		for (String document : DataBaseString) {
+
+			distance = modifiedDamerauLevenshteinDistance(query, document);
+			distanceMap.put(distance, document);
+		}
+
+		List<Integer> distanceList = new ArrayList<>(distanceMap.keySet());
+		Collections.sort(distanceList);
+		int maxResults = 10; // let the user decide 
+		
+		for (int i = 0; i < Math.min(maxResults, distanceList.size()); i++) {
+			int distance = distanceList.get(i);
+			String dbString = distanceMap.get(distance);
+			System.out.println("the  database name: " + dbString + " has a Levenshtein distance of " + distance + " regarding the input name: " + query);
+		}
+
 //	public void StringInNgrams(String inputName, int ngram) {
 //
 //		temp = "  " + inputName + "  ";
@@ -274,4 +305,7 @@ public class Normalization {
 //			System.out.println(ngrams[i]);
 //		}
 //	}
+
+
+	}
 }

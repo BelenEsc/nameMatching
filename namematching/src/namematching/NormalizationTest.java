@@ -11,8 +11,6 @@ public class NormalizationTest {
 	Normalization testUnit = new Normalization();
 	private String inputName;
 
-
-
 	@Test
 	public void testDeleteSpaces() {
 		inputName = "Quercus   acuta  ";
@@ -22,16 +20,16 @@ public class NormalizationTest {
 
 	@Test
 	public void testLowerCase() {
-		inputName= "QUERcus Acuta";
+		inputName = "QUERcus Acuta";
 		testUnit.toLowerCase(inputName);
 		Assert.assertEquals("xx", "quercus acuta", inputName.toLowerCase());
 	}
 
 	@Test
 	public void testNoSpecialCharacters() {
-		inputName="Qüercus äcutá";
+		inputName = "Qüercus äcutá";
 		testUnit.replaceSpecialCharacters(inputName);
-		Assert.assertEquals("Special characters",  "Quercus acuta",testUnit.noSpecialCharacters());
+		Assert.assertEquals("Special characters", "Quercus acuta", testUnit.noSpecialCharacters());
 	}
 
 	@Test
@@ -131,7 +129,11 @@ public class NormalizationTest {
 
 	@Test
 	public void testModifiedDamerauLevenshteinDistance() {
-		fail("Not yet implemented");
-	}
+		String name = "headEZXGend";
+		String name2 = "headrrrrend";
+		
+		testUnit.modifiedDamerauLevenshteinDistance(name, name2); 
+		Assert.assertEquals("xx", 4, testUnit.distanceMDL());
+		}
 
 }
