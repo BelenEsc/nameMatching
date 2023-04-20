@@ -75,7 +75,7 @@ public class UniformNames extends Normalization {
 		//inputName.modifiedDamerauLevenshteinDistance(inputName.getRestantInputName (), inputName.getRestantDatabaseName());
 		//System.out.println("the distance between the two strings: " +inputName.distanceMDL());
 		//inputName.StringInNgrams(externalName, ngram);
-		inputName.recordMatches(inputName.getRestantInputName ());
+		System.out.println("supuestamente el match mas cercano es: " + inputName.findMatchingNames("Gennnus"));
 		
 	}
 

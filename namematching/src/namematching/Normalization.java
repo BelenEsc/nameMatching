@@ -229,17 +229,20 @@ public class Normalization {
 
 	}
 
-	public static int modifiedDamerauLevenshteinDistance(String str1, String str2) {
+  public int modifiedDamerauLevenshteinDistance(String str1, String str2) {
+	
+	//str1 is the query
+	//str2 is the document 
 
-		if (str1 == str2) {
-			return 0;
-		} else if (str1.isEmpty()) {
-			return str2.length();
-		} else if (str2.isEmpty()) {
-			return str1.length();
-		} else if (str2.length() == str1.length() && str1 != str2) {
-			return 1;
-		}
+	if (str1 == str2) {
+		return 0;
+	} else if (str1.isEmpty()) {
+		return str2.length();
+	} else if (str2.isEmpty()) {
+		return str1.length();
+	} else if (str2.length() == 1 && str1.length() == 1 && str1 != str2) {
+		return 1;
+	} else {
 
 		int[][] distanceMatrix = new int[str1.length() + 1][str2.length() + 1];
 
@@ -254,7 +257,8 @@ public class Normalization {
 		for (int i = 1; i <= str1.length(); i++) {
 			for (int j = 1; j <= str2.length(); j++) {
 				int cost = (str1.charAt(i - 1) == str2.charAt(j - 1)) ? 0 : 1;
-				distanceMatrix[i][j] = Math.min(Math.min(distanceMatrix[i - 1][j] + 1, distanceMatrix[i][j - 1] + 1),
+				distanceMatrix[i][j] = Math.min(
+						Math.min(distanceMatrix[i - 1][j] + 1, distanceMatrix[i][j - 1] + 1),
 						distanceMatrix[i - 1][j - 1] + cost);
 
 				if (i > 1 && j > 1 && str1.charAt(i - 1) == str2.charAt(j - 2)
@@ -263,36 +267,41 @@ public class Normalization {
 				}
 			}
 		}
-
 		return distanceMatrix[str1.length()][str2.length()];
 	}
+}
 
-	public void recordMatches(String query) {
+public String findMatchingNames(String query) {
+	
+	String result = "";
+	int lowestDistance = Integer.MAX_VALUE;
 
-		List<String> DataBaseString = new ArrayList<>();
-		DataBaseString.add("GynDatBas");
-		DataBaseString.add("GenusDataBase");
-		DataBaseString.add("Gynoxys");
+	List<String> DataBaseString = new ArrayList<>();
+	DataBaseString.add("closet Name");
+	DataBaseString.add("asasas");
+	DataBaseString.add("pglkfk");
 
-		Map<Integer, String> distanceMap = new HashMap<>();
+	Map<Integer, String> distanceMap = new HashMap<>();
 
-/// 
+	for (String document : DataBaseString) {
 
-		for (String document : DataBaseString) {
+		int distance = modifiedDamerauLevenshteinDistance(query, document);
+		distanceMap.put(distance, document);
+	}
 
-			distance = modifiedDamerauLevenshteinDistance(query, document);
-			distanceMap.put(distance, document);
+	List<Integer> distanceList = new ArrayList<>(distanceMap.keySet());
+	Collections.sort(distanceList);
+
+	for (int i = 0; i < distanceList.size(); i++) {
+		int distance = distanceList.get(i);
+
+		if (distance < lowestDistance) {
+			lowestDistance = distance;
+			result = distanceMap.get(distance);
 		}
-
-		List<Integer> distanceList = new ArrayList<>(distanceMap.keySet());
-		Collections.sort(distanceList);
-		int maxResults = 10; // let the user decide 
-		
-		for (int i = 0; i < Math.min(maxResults, distanceList.size()); i++) {
-			int distance = distanceList.get(i);
-			String dbString = distanceMap.get(distance);
-			System.out.println("the  database name: " + dbString + " has a Levenshtein distance of " + distance + " regarding the input name: " + query);
-		}
+	}
+	return result;
+}
 
 //	public void StringInNgrams(String inputName, int ngram) {
 //
@@ -307,5 +316,5 @@ public class Normalization {
 //	}
 
 
-	}
+	
 }

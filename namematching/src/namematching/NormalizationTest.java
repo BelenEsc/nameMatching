@@ -1,6 +1,10 @@
 package namematching;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.fail;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import org.junit.Test;
 
@@ -131,9 +135,17 @@ public class NormalizationTest {
 	public void testModifiedDamerauLevenshteinDistance() {
 		String name = "headEZXGend";
 		String name2 = "headrrrrend";
-		
-		testUnit.modifiedDamerauLevenshteinDistance(name, name2); 
-		Assert.assertEquals("xx", 4, testUnit.distanceMDL());
-		}
+
+		int result = testUnit.modifiedDamerauLevenshteinDistance(name, name2);
+		Assert.assertEquals("xx", 4, result);
+	}
+
+	@Test
+	public void testFindMatchingNames() {
+		Normalization name = new Normalization();
+		List<String> DataBaseString = new ArrayList<>();
+		String result = name.findMatchingNames("closest name");
+		assertEquals("closet Name", result);
+	}
 
 }
