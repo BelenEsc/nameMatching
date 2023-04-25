@@ -4181,7 +4181,7 @@
 		<output>C.Z.Nelson</output>
 	</replacement>
 	<replacement>
-		<input>Chen(Zhen) Zi Tang</input>
+		<input>ChenZhen Zi Tang</input>
 		<output>C.Z.Tang</output>
 	</replacement>
 	<replacement>
@@ -4430,6 +4430,10 @@
 	</replacement>
 	<replacement>
 		<input>Alexandre Henri Gabriel de Cassini</input>
+		<output>Cass.</output>
+	</replacement>
+	<replacement>
+		<input>Cassini</input>
 		<output>Cass.</output>
 	</replacement>
 	<replacement>
@@ -4973,7 +4977,7 @@
 		<output>Coker</output>
 	</replacement>
 	<replacement>
-		<input>Maria Antonietta (Maretta) Colasante</input>
+		<input>Maria Antonietta Maretta Colasante</input>
 		<output>Colas.</output>
 	</replacement>
 	<replacement>
@@ -8081,7 +8085,7 @@
 		<output>F.T.Wang</output>
 	</replacement>
 	<replacement>
-		<input>Frederick Townsend (MP for Stratford-on-Avon)</input>
+		<input>Frederick Townsend MP for Stratford-on-Avon</input>
 		<output>F.Towns.</output>
 	</replacement>
 	<replacement>
@@ -13954,7 +13958,7 @@
 	</replacement>
 	<replacement>
 		<input>Waldemar Mordecai Wolff Haffkine</input>
-		<output>KhawkineMardochée-Woldemar Khawkine (1860–1930) (alternate spelling of </output>
+		<output>KhawkineMardochée-Woldemar Khawkine 1860–1930 alternate spelling of </output>
 	</replacement>
 	<replacement>
 		<input>Meng Wong Khoon</input>
@@ -15089,7 +15093,7 @@
 		<output>Lavallée</output>
 	</replacement>
 	<replacement>
-		<input>Peter S. ('Bill') Lavarack</input>
+		<input>Peter S. 'Bill' Lavarack</input>
 		<output>Lavarack</output>
 	</replacement>
 	<replacement>
@@ -15269,7 +15273,7 @@
 		<output>Lemmon</output>
 	</replacement>
 	<replacement>
-		<input>(Pierre Louis) Victor Lemoine</input>
+		<input>Pierre Louis Victor Lemoine</input>
 		<output>Lemoine</output>
 	</replacement>
 	<replacement>
@@ -16253,7 +16257,7 @@
 		<output>M.V.Agab.</output>
 	</replacement>
 	<replacement>
-		<input>M.Venkatesan Viswanathan)</input>
+		<input>M.Venkatesan Viswanathan</input>
 		<output>M.V.Viswan.</output>
 	</replacement>
 	<replacement>
@@ -16393,7 +16397,7 @@
 		<output>Madsen</output>
 	</replacement>
 	<replacement>
-		<input>Tokujirô(Tokijiro) Maekawa</input>
+		<input>TokujirôTokijiro Maekawa</input>
 		<output>Maek.</output>
 	</replacement>
 	<replacement>
@@ -22845,7 +22849,7 @@
 		<output>Schübl.</output>
 	</replacement>
 	<replacement>
-		<input>(Conrad Gideon) Theodor Schuchardt</input>
+		<input>Conrad Gideon Theodor Schuchardt</input>
 		<output>Schuch.</output>
 	</replacement>
 	<replacement>
@@ -23173,7 +23177,7 @@
 		<output>Shipunov</output>
 	</replacement>
 	<replacement>
-		<input>Yasuyoshi (Miho or Homi) Shirasawa</input>
+		<input>Yasuyoshi Miho or Homi Shirasawa</input>
 		<output>Shiras.</output>
 	</replacement>
 	<replacement>
@@ -23625,7 +23629,7 @@
 		<output>St.-Lag.</output>
 	</replacement>
 	<replacement>
-		<input>Alfred (Marie Augustine) Saint-Yves</input>
+		<input>Alfred Marie Augustine Saint-Yves</input>
 		<output>St.-Yves</output>
 	</replacement>
 	<replacement>
@@ -24049,7 +24053,7 @@
 		<output>Sutt.</output>
 	</replacement>
 	<replacement>
-		<input>Nils (Eberhard) Svedelius</input>
+		<input>Nils Eberhard Svedelius</input>
 		<output>Sved.</output>
 	</replacement>
 	<replacement>
@@ -24401,7 +24405,7 @@
 		<output>T.P.Lin</output>
 	</replacement>
 	<replacement>
-		<input>Tom (Tomas) Erik von Post</input>
+		<input>Tom Tomas Erik von Post</input>
 		<output>T.Post</output>
 	</replacement>
 	<replacement>
@@ -26741,7 +26745,7 @@
 		<output>Wille</output>
 	</replacement>
 	<replacement>
-		<input>(Pierre) Remi Willemet</input>
+		<input>Pierre Remi Willemet</input>
 		<output>Willemet</output>
 	</replacement>
 	<replacement>
@@ -27114,7 +27118,7 @@
 	</replacement>
 	<replacement>
 		<input>floruit</input>
-		<output>Ying QinYing Qin (</output>
+		<output>Ying QinYing Qin </output>
 	</replacement>
 	<replacement>
 		<input>Yoshio Tanaka</input>
@@ -27273,7 +27277,7 @@
 		<output>Zepern.</output>
 	</replacement>
 	<replacement>
-		<input>Marija Ja. (Mariya Ya.) Zerova</input>
+		<input>Marija Ja. Mariya Ya. Zerova</input>
 		<output>Zerova</output>
 	</replacement>
 	<replacement>
@@ -27637,7 +27641,7 @@
 		<output>Barr</output>
 	</replacement>
 	<replacement>
-		<input>Cornelis (Kees) Bas</input>
+		<input>Cornelis Kees Bas</input>
 		<output>Bas</output>
 	</replacement>
 	<replacement>
@@ -27705,7 +27709,7 @@
 		<output>Børgesen</output>
 	</replacement>
 	<replacement>
-		<input>Moritz (Moriz) Balthasar Borkhausen</input>
+		<input>Moritz Moriz Balthasar Borkhausen</input>
 		<output>Borkh.</output>
 	</replacement>
 	<replacement>
@@ -27797,7 +27801,7 @@
 		<output>C.D.White</output>
 	</replacement>
 	<replacement>
-		<input>Christian Erasmus Otterstrøm (Otterström) Jensen</input>
+		<input>Christian Erasmus Otterstrøm Otterström Jensen</input>
 		<output>C.E.O.Jensen</output>
 	</replacement>
 	<replacement>
@@ -27805,7 +27809,7 @@
 		<output>C.Elliott</output>
 	</replacement>
 	<replacement>
-		<input>Chicita Frances (Forman) Culberson</input>
+		<input>Chicita Frances Forman Culberson</input>
 		<output>C.F.Culb.</output>
 	</replacement>
 	<replacement>
@@ -27825,7 +27829,7 @@
 		<output>C.Jeffrey</output>
 	</replacement>
 	<replacement>
-		<input>Christian Konrad (Conrad) Sprengel</input>
+		<input>Christian Konrad Conrad Sprengel</input>
 		<output>C.K.Spreng.</output>
 	</replacement>
 	<replacement>
@@ -27849,7 +27853,7 @@
 		<output>C.P.Robin</output>
 	</replacement>
 	<replacement>
-		<input>Carl (Karl) Ludwig von Reichenbach</input>
+		<input>Carl Karl Ludwig von Reichenbach</input>
 		<output>C.Rchb.</output>
 	</replacement>
 	<replacement>
@@ -27857,7 +27861,7 @@
 		<output>C.Ríos</output>
 	</replacement>
 	<replacement>
-		<input>Karl (Carl) Theodor Ernst von Siebold</input>
+		<input>Karl Carl Theodor Ernst von Siebold</input>
 		<output>C.Siebold</output>
 	</replacement>
 	<replacement>
@@ -27869,7 +27873,7 @@
 		<output>C.Walter</output>
 	</replacement>
 	<replacement>
-		<input>Constantin (Konstantin) Georg Alexander Winkler</input>
+		<input>Constantin Konstantin Georg Alexander Winkler</input>
 		<output>C.Winkl.</output>
 	</replacement>
 	<replacement>
@@ -27889,7 +27893,7 @@
 		<output>Calder</output>
 	</replacement>
 	<replacement>
-		<input>Giulio (Jules) Camus</input>
+		<input>Giulio Jules Camus</input>
 		<output>Camus</output>
 	</replacement>
 	<replacement>
@@ -27961,7 +27965,7 @@
 		<output>Cleghorn</output>
 	</replacement>
 	<replacement>
-		<input>Simón de Roxas (Rojas) Clemente y Rubio</input>
+		<input>Simón de Roxas Rojas Clemente y Rubio</input>
 		<output>Clemente</output>
 	</replacement>
 	<replacement>
@@ -28117,7 +28121,7 @@
 		<output>Denis</output>
 	</replacement>
 	<replacement>
-		<input>James (Jacobus) J. Dickson</input>
+		<input>James Jacobus J. Dickson</input>
 		<output>Dicks.</output>
 	</replacement>
 	<replacement>
@@ -28129,7 +28133,7 @@
 		<output>Diels</output>
 	</replacement>
 	<replacement>
-		<input>Karl (Carl) Moriz (Moritz) Diesing</input>
+		<input>Karl Carl Moriz Moritz Diesing</input>
 		<output>Diesing</output>
 	</replacement>
 	<replacement>
@@ -28161,7 +28165,7 @@
 		<output>Dupuy</output>
 	</replacement>
 	<replacement>
-		<input>Elias (Elie) Magloire Durand</input>
+		<input>Elias Elie Magloire Durand</input>
 		<output>Durand</output>
 	</replacement>
 	<replacement>
@@ -28169,7 +28173,7 @@
 		<output>d'Urv.</output>
 	</replacement>
 	<replacement>
-		<input>William Turner Thiselton (Thistleton) Dyer</input>
+		<input>William Turner Thiselton Thistleton Dyer</input>
 		<output>Dyer</output>
 	</replacement>
 	<replacement>
@@ -28177,7 +28181,7 @@
 		<output>E.Barnes</output>
 	</replacement>
 	<replacement>
-		<input>Elizabeth Gertrude Britton (née Knight)</input>
+		<input>Elizabeth Gertrude Britton née Knight</input>
 		<output>E.Britton</output>
 	</replacement>
 	<replacement>
@@ -28189,7 +28193,7 @@
 		<output>E.Forst.</output>
 	</replacement>
 	<replacement>
-		<input>Edith Gertrude (Schwartz) Clements</input>
+		<input>Edith Gertrude Schwartz Clements</input>
 		<output>E.G.Clem.</output>
 	</replacement>
 	<replacement>
@@ -28217,11 +28221,11 @@
 		<output>E.Martínez</output>
 	</replacement>
 	<replacement>
-		<input>(Joseph) Ernst Olivier</input>
+		<input>Joseph Ernst Olivier</input>
 		<output>E.Olivier</output>
 	</replacement>
 	<replacement>
-		<input>Edward Perceval (Percival) Wright</input>
+		<input>Edward Perceval Percival Wright</input>
 		<output>E.P.Wright</output>
 	</replacement>
 	<replacement>
@@ -28237,7 +28241,7 @@
 		<output>E.Small</output>
 	</replacement>
 	<replacement>
-		<input>Edwin Tulley (Tully) Newton</input>
+		<input>Edwin Tulley Tully Newton</input>
 		<output>E.T.Newton</output>
 	</replacement>
 	<replacement>
@@ -28281,11 +28285,11 @@
 		<output>Ether.</output>
 	</replacement>
 	<replacement>
-		<input>Franz (Francis) Andreas Bauer</input>
+		<input>Franz Francis Andreas Bauer</input>
 		<output>F.A.Bauer</output>
 	</replacement>
 	<replacement>
-		<input>(Frédérique) Frédéric-Louis Allamand</input>
+		<input>Frédérique Frédéric-Louis Allamand</input>
 		<output>F.Allam.</output>
 	</replacement>
 	<replacement>
@@ -28309,7 +28313,7 @@
 		<output>F.Duncan</output>
 	</replacement>
 	<replacement>
-		<input>Chen Feng Huai (Hwai)</input>
+		<input>Chen Feng Huai Hwai</input>
 		<output>F.H.Chen</output>
 	</replacement>
 	<replacement>
@@ -28317,7 +28321,7 @@
 		<output>F.Harper</output>
 	</replacement>
 	<replacement>
-		<input>Ferdinand Lucas (Lukas) Bauer</input>
+		<input>Ferdinand Lucas Lukas Bauer</input>
 		<output>F.L.Bauer</output>
 	</replacement>
 	<replacement>
@@ -28361,11 +28365,11 @@
 		<output>F.Wilson</output>
 	</replacement>
 	<replacement>
-		<input>Avraham (Abraham) Fahn</input>
+		<input>Avraham Abraham Fahn</input>
 		<output>Fahn</output>
 	</replacement>
 	<replacement>
-		<input>Johan Peter (Pehr) Falk</input>
+		<input>Johan Peter Pehr Falk</input>
 		<output>Falk</output>
 	</replacement>
 	<replacement>
@@ -28389,7 +28393,7 @@
 		<output>Ferd.Schneid.</output>
 	</replacement>
 	<replacement>
-		<input>Louis Éconches Feuillée (Feuillet)</input>
+		<input>Louis Éconches Feuillée Feuillet</input>
 		<output>Feuillée</output>
 	</replacement>
 	<replacement>
@@ -28433,7 +28437,7 @@
 		<output>Fresen.</output>
 	</replacement>
 	<replacement>
-		<input>Imre (Emerich) Frivaldszky von Frivald</input>
+		<input>Imre Emerich Frivaldszky von Frivald</input>
 		<output>Friv.</output>
 	</replacement>
 	<replacement>
@@ -28449,7 +28453,7 @@
 		<output>G.C.Whipple</output>
 	</replacement>
 	<replacement>
-		<input>Gordon Herriott (Heriot) Cunningham</input>
+		<input>Gordon Herriott Heriot Cunningham</input>
 		<output>G.Cunn.</output>
 	</replacement>
 	<replacement>
@@ -28481,7 +28485,7 @@
 		<output>G.Norman</output>
 	</replacement>
 	<replacement>
-		<input>Magnus Gustaf (Gustav) Retzius</input>
+		<input>Magnus Gustaf Gustav Retzius</input>
 		<output>G.Retz.</output>
 	</replacement>
 	<replacement>
@@ -28557,7 +28561,7 @@
 		<output>Gelting</output>
 	</replacement>
 	<replacement>
-		<input>Karl Ludwig (Sir Charles Lewis) Giesecke</input>
+		<input>Karl Ludwig Sir Charles Lewis Giesecke</input>
 		<output>Giesecke</output>
 	</replacement>
 	<replacement>
@@ -28625,11 +28629,11 @@
 		<output>Griffiths</output>
 	</replacement>
 	<replacement>
-		<input>Johan Frederik (Johannes Fredericus, Jan Fredrik) Gronovius</input>
+		<input>Johan Frederik Johannes Fredericus, Jan Fredrik Gronovius</input>
 		<output>Gronov.</output>
 	</replacement>
 	<replacement>
-		<input>Franz von Paula (Franciscus de Paula) Gruithuisen</input>
+		<input>Franz von Paula Franciscus de Paula Gruithuisen</input>
 		<output>Gruith.</output>
 	</replacement>
 	<replacement>
@@ -28649,7 +28653,7 @@
 		<output>Gust.Fisch.</output>
 	</replacement>
 	<replacement>
-		<input>Heinrich Wilhelm Eduard (Harry) van Bruggen</input>
+		<input>Heinrich Wilhelm Eduard Harry van Bruggen</input>
 		<output>H.Bruggen</output>
 	</replacement>
 	<replacement>
@@ -28661,7 +28665,7 @@
 		<output>H.Deane</output>
 	</replacement>
 	<replacement>
-		<input>Henning Eiler (Ejler) Petersen</input>
+		<input>Henning Eiler Ejler Petersen</input>
 		<output>H.E.Petersen</output>
 	</replacement>
 	<replacement>
@@ -28685,7 +28689,7 @@
 		<output>H.K.A.Winkl.</output>
 	</replacement>
 	<replacement>
-		<input>Heinrich (Karl) Walter</input>
+		<input>Heinrich Karl Walter</input>
 		<output>H.K.Walter</output>
 	</replacement>
 	<replacement>
@@ -28761,11 +28765,11 @@
 		<output>Havard</output>
 	</replacement>
 	<replacement>
-		<input>Cardinal Stephan Franz Lajos (Ludwig) Haynald</input>
+		<input>Cardinal Stephan Franz Lajos Ludwig Haynald</input>
 		<output>Haynald</output>
 	</replacement>
 	<replacement>
-		<input>Johann (Johannes, Joannis) Hedwig</input>
+		<input>Johann Johannes, Joannis Hedwig</input>
 		<output>Hedw.</output>
 	</replacement>
 	<replacement>
@@ -28777,7 +28781,7 @@
 		<output>Helms</output>
 	</replacement>
 	<replacement>
-		<input>George Andreas (Jerzy Andrzej) Helwing</input>
+		<input>George Andreas Jerzy Andrzej Helwing</input>
 		<output>Helwing</output>
 	</replacement>
 	<replacement>
@@ -28801,7 +28805,7 @@
 		<output>Herb.</output>
 	</replacement>
 	<replacement>
-		<input>Constantine (Constantijn) J. Hering</input>
+		<input>Constantine Constantijn J. Hering</input>
 		<output>Hering</output>
 	</replacement>
 	<replacement>
@@ -28817,7 +28821,7 @@
 		<output>Herrm.</output>
 	</replacement>
 	<replacement>
-		<input>Wilhelm(Guillermo) Gustav(o) Franz(Francis) Herter</input>
+		<input>WilhelmGuillermo Gustavo FranzFrancis Herter</input>
 		<output>Herter</output>
 	</replacement>
 	<replacement>
@@ -28833,7 +28837,7 @@
 		<output>Hill</output>
 	</replacement>
 	<replacement>
-		<input>William (Wilhelm) Hillebrand</input>
+		<input>William Wilhelm Hillebrand</input>
 		<output>Hillebr.</output>
 	</replacement>
 	<replacement>
@@ -28933,7 +28937,7 @@
 		<output>Iltis</output>
 	</replacement>
 	<replacement>
-		<input>Pierre Nicolas le Chéron (d')Incarville</input>
+		<input>Pierre Nicolas le Chéron d'Incarville</input>
 		<output>Incarv.</output>
 	</replacement>
 	<replacement>
@@ -28969,7 +28973,7 @@
 		<output>J.Breitenb.</output>
 	</replacement>
 	<replacement>
-		<input>Jens Christen (Christian) Clausen</input>
+		<input>Jens Christen Christian Clausen</input>
 		<output>J.C.Clausen</output>
 	</replacement>
 	<replacement>
@@ -29157,7 +29161,7 @@
 		<output>Jameson</output>
 	</replacement>
 	<replacement>
-		<input>Sándor (Alexander) Jávorka</input>
+		<input>Sándor Alexander Jávorka</input>
 		<output>Jáv.</output>
 	</replacement>
 	<replacement>
@@ -29193,7 +29197,7 @@
 		<output>Joy Thomps.</output>
 	</replacement>
 	<replacement>
-		<input>(Friedrich) Franz Wilhelm Junghuhn</input>
+		<input>Friedrich Franz Wilhelm Junghuhn</input>
 		<output>Jungh.</output>
 	</replacement>
 	<replacement>
@@ -29201,7 +29205,7 @@
 		<output>K.D.Hill</output>
 	</replacement>
 	<replacement>
-		<input>Charles (Karl) Dietrich Eberhard Koenig (König)</input>
+		<input>Charles Karl Dietrich Eberhard Koenig König</input>
 		<output>K.D.Koenig</output>
 	</replacement>
 	<replacement>
@@ -29241,7 +29245,7 @@
 		<output>Kaul</output>
 	</replacement>
 	<replacement>
-		<input>William Hippolitus (Hypolitus, Hypolite) Keating</input>
+		<input>William Hippolitus Hypolitus, Hypolite Keating</input>
 		<output>Keating</output>
 	</replacement>
 	<replacement>
@@ -29257,7 +29261,7 @@
 		<output>Keyserl.</output>
 	</replacement>
 	<replacement>
-		<input>Franz (François, Franciscus) Kiggelaer</input>
+		<input>Franz François, Franciscus Kiggelaer</input>
 		<output>Kiggel.</output>
 	</replacement>
 	<replacement>
@@ -29293,11 +29297,11 @@
 		<output>Koell.</output>
 	</replacement>
 	<replacement>
-		<input>Friedrich August (Anton) Rudolf Kolenati</input>
+		<input>Friedrich August Anton Rudolf Kolenati</input>
 		<output>Kolen.</output>
 	</replacement>
 	<replacement>
-		<input>(Georg) Andreas von Kornhuber</input>
+		<input>Georg Andreas von Kornhuber</input>
 		<output>Kornh.</output>
 	</replacement>
 	<replacement>
@@ -29317,7 +29321,7 @@
 		<output>Kräusel</output>
 	</replacement>
 	<replacement>
-		<input>Karl (Carl) Wilhelm Leopold Krug</input>
+		<input>Karl Carl Wilhelm Leopold Krug</input>
 		<output>Krug</output>
 	</replacement>
 	<replacement>
@@ -29329,7 +29333,7 @@
 		<output>Kurl.</output>
 	</replacement>
 	<replacement>
-		<input>Fritz (Federico) Kurtz</input>
+		<input>Fritz Federico Kurtz</input>
 		<output>Kurtz</output>
 	</replacement>
 	<replacement>
@@ -29337,7 +29341,7 @@
 		<output>L.B.Moore</output>
 	</replacement>
 	<replacement>
-		<input>Harriet Margaret Louisa Bolus (née Kensit) </input>
+		<input>Harriet Margaret Louisa Bolus née Kensit </input>
 		<output>L.Bolus</output>
 	</replacement>
 	<replacement>
@@ -29361,7 +29365,7 @@
 		<output>L.Martins</output>
 	</replacement>
 	<replacement>
-		<input>Ernst Jakob (Jacob) Lennart von Post</input>
+		<input>Ernst Jakob Jacob Lennart von Post</input>
 		<output>L.Post</output>
 	</replacement>
 	<replacement>
@@ -29373,7 +29377,7 @@
 		<output>Labrecque</output>
 	</replacement>
 	<replacement>
-		<input>Lars Levi Læstadius (Laestadius)</input>
+		<input>Lars Levi Læstadius Laestadius</input>
 		<output>Laest.</output>
 	</replacement>
 	<replacement>
@@ -29389,7 +29393,7 @@
 		<output>Lank.</output>
 	</replacement>
 	<replacement>
-		<input>Baron Philippe-Isidore Picot de Lapeyrouse (La Peirouse)</input>
+		<input>Baron Philippe-Isidore Picot de Lapeyrouse La Peirouse</input>
 		<output>Lapeyr.</output>
 	</replacement>
 	<replacement>
@@ -29401,7 +29405,7 @@
 		<output>Le Maout</output>
 	</replacement>
 	<replacement>
-		<input>John (Eatton) Leconte</input>
+		<input>John Eatton Leconte</input>
 		<output>Leconte</output>
 	</replacement>
 	<replacement>
@@ -29417,7 +29421,7 @@
 		<output>Lemmerm.</output>
 	</replacement>
 	<replacement>
-		<input>Frère León (Joseph Sylvestre Sauget)</input>
+		<input>Frère León Joseph Sylvestre Sauget</input>
 		<output>León</output>
 	</replacement>
 	<replacement>
@@ -29433,7 +29437,7 @@
 		<output>Lewin</output>
 	</replacement>
 	<replacement>
-		<input>Franz Kaspar (or Caspar) Lieblein</input>
+		<input>Franz Kaspar or Caspar Lieblein</input>
 		<output>Liebl.</output>
 	</replacement>
 	<replacement>
@@ -29445,11 +29449,11 @@
 		<output>Litv.</output>
 	</replacement>
 	<replacement>
-		<input>Matthias de l'Obel (de Lobel)</input>
+		<input>Matthias de l'Obel de Lobel</input>
 		<output>Lobel</output>
 	</replacement>
 	<replacement>
-		<input>Adam Lonicer (Lonitzer)</input>
+		<input>Adam Lonicer Lonitzer</input>
 		<output>Lonitzer</output>
 	</replacement>
 	<replacement>
@@ -29541,7 +29545,7 @@
 		<output>Madden</output>
 	</replacement>
 	<replacement>
-		<input>Gilbert (Gustav) Mandon</input>
+		<input>Gilbert Gustav Mandon</input>
 		<output>Mandon</output>
 	</replacement>
 	<replacement>
@@ -29549,7 +29553,7 @@
 		<output>Manilal</output>
 	</replacement>
 	<replacement>
-		<input>Georg Marcgrave (Marcgraf, Markgraf)</input>
+		<input>Georg Marcgrave Marcgraf, Markgraf</input>
 		<output>Marcgr.</output>
 	</replacement>
 	<replacement>
@@ -29581,7 +29585,7 @@
 		<output>Matr.</output>
 	</replacement>
 	<replacement>
-		<input>Pietro (Pier) Andrea Gregorio Mattioli (Matthiolus)</input>
+		<input>Pietro Pier Andrea Gregorio Mattioli Matthiolus</input>
 		<output>Mattioli</output>
 	</replacement>
 	<replacement>
@@ -29637,7 +29641,7 @@
 		<output>Meyen</output>
 	</replacement>
 	<replacement>
-		<input>Friedrich Bernhard (Bernard) Ferdinand Michelis</input>
+		<input>Friedrich Bernhard Bernard Ferdinand Michelis</input>
 		<output>Michelis</output>
 	</replacement>
 	<replacement>
@@ -29645,11 +29649,11 @@
 		<output>Miers</output>
 	</replacement>
 	<replacement>
-		<input>Emil Friedrich August Walter (Walther) Migula</input>
+		<input>Emil Friedrich August Walter Walther Migula</input>
 		<output>Mig.</output>
 	</replacement>
 	<replacement>
-		<input>Josef (Joseph) Mik</input>
+		<input>Josef Joseph Mik</input>
 		<output>Mik</output>
 	</replacement>
 	<replacement>
@@ -29697,7 +29701,7 @@
 		<output>Morrison</output>
 	</replacement>
 	<replacement>
-		<input>Johann Karl (Carl) August (Friedrich Wilhelm) Müller</input>
+		<input>Johann Karl Carl August Friedrich Wilhelm Müller</input>
 		<output>Müll.Hal.</output>
 	</replacement>
 	<replacement>
@@ -29729,7 +29733,7 @@
 		<output>N.Gibson</output>
 	</replacement>
 	<replacement>
-		<input>Nils (Nicolai) Lund</input>
+		<input>Nils Nicolai Lund</input>
 		<output>N.Lund</output>
 	</replacement>
 	<replacement>
@@ -29773,15 +29777,15 @@
 		<output>Nikitina</output>
 	</replacement>
 	<replacement>
-		<input>Johann Jakob Nöggerath (Jacob Noeggerath)</input>
+		<input>Johann Jakob Nöggerath Jacob Noeggerath</input>
 		<output>Noegg.</output>
 	</replacement>
 	<replacement>
-		<input>Nils Adolph Erik (von) Nordenskiöld</input>
+		<input>Nils Adolph Erik von Nordenskiöld</input>
 		<output>Nordensk.</output>
 	</replacement>
 	<replacement>
-		<input>Alice Belle (Rich) Northrop</input>
+		<input>Alice Belle Rich Northrop</input>
 		<output>Northr.</output>
 	</replacement>
 	<replacement>
@@ -29793,7 +29797,7 @@
 		<output>Nyholm</output>
 	</replacement>
 	<replacement>
-		<input>(Wilhelm) William Nylander</input>
+		<input>Wilhelm William Nylander</input>
 		<output>Nyl.</output>
 	</replacement>
 	<replacement>
@@ -29897,11 +29901,11 @@
 		<output>Percival</output>
 	</replacement>
 	<replacement>
-		<input>Josef (Joseph) Anton Maximillian Perty</input>
+		<input>Josef Joseph Anton Maximillian Perty</input>
 		<output>Perty</output>
 	</replacement>
 	<replacement>
-		<input>(Gustav) Albert Peter</input>
+		<input>Gustav Albert Peter</input>
 		<output>Peter</output>
 	</replacement>
 	<replacement>
@@ -29909,7 +29913,7 @@
 		<output>Petrie</output>
 	</replacement>
 	<replacement>
-		<input>Louis (Ludwig) Karl Georg Pfeiffer</input>
+		<input>Louis Ludwig Karl Georg Pfeiffer</input>
 		<output>Pfeiff.</output>
 	</replacement>
 	<replacement>
@@ -29917,7 +29921,7 @@
 		<output>Pickering</output>
 	</replacement>
 	<replacement>
-		<input>Willem (Guilielmus, Guilherme) Piso (Pies)</input>
+		<input>Willem Guilielmus, Guilherme Piso Pies</input>
 		<output>Piso</output>
 	</replacement>
 	<replacement>
@@ -29925,7 +29929,7 @@
 		<output>Plumst.</output>
 	</replacement>
 	<replacement>
-		<input>Evgeniia (Eugenia) Georgievna Pobedimova</input>
+		<input>Evgeniia Eugenia Georgievna Pobedimova</input>
 		<output>Pobed.</output>
 	</replacement>
 	<replacement>
@@ -29933,11 +29937,11 @@
 		<output>Pojark.</output>
 	</replacement>
 	<replacement>
-		<input>Alois (or Aloys) Pokorny</input>
+		<input>Alois or Aloys Pokorny</input>
 		<output>Pokorny</output>
 	</replacement>
 	<replacement>
-		<input>Illtyd (Iltyd) Buller Pole-Evans</input>
+		<input>Illtyd Iltyd Buller Pole-Evans</input>
 		<output>Pole-Evans</output>
 	</replacement>
 	<replacement>
@@ -29953,7 +29957,7 @@
 		<output>Putnam</output>
 	</replacement>
 	<replacement>
-		<input>Alois (Aloys) Putterlick</input>
+		<input>Alois Aloys Putterlick</input>
 		<output>Putt.</output>
 	</replacement>
 	<replacement>
@@ -30093,7 +30097,7 @@
 		<output>Raup</output>
 	</replacement>
 	<replacement>
-		<input>Leonhard (Leonhart) Rauwolf(f)</input>
+		<input>Leonhard Leonhart Rauwolff</input>
 		<output>Rauwolff</output>
 	</replacement>
 	<replacement>
@@ -30129,7 +30133,7 @@
 		<output>Říha</output>
 	</replacement>
 	<replacement>
-		<input>Hinrich (Henrik) Johannes Rink</input>
+		<input>Hinrich Henrik Johannes Rink</input>
 		<output>Rink</output>
 	</replacement>
 	<replacement>
@@ -30165,7 +30169,7 @@
 		<output>Rossi</output>
 	</replacement>
 	<replacement>
-		<input>Emil Adolf (Adolph) Rossmässler</input>
+		<input>Emil Adolf Adolph Rossmässler</input>
 		<output>Rossm.</output>
 	</replacement>
 	<replacement>
@@ -30257,11 +30261,11 @@
 		<output>Schönland</output>
 	</replacement>
 	<replacement>
-		<input>Julius (Heinrich Karl) Schumann</input>
+		<input>Julius Heinrich Karl Schumann</input>
 		<output>Schum.</output>
 	</replacement>
 	<replacement>
-		<input>Friedrich Sellow (Sello)</input>
+		<input>Friedrich Sellow Sello</input>
 		<output>Sellow</output>
 	</replacement>
 	<replacement>
@@ -30301,7 +30305,7 @@
 		<output>Soó</output>
 	</replacement>
 	<replacement>
-		<input>Carlo Luigi (Carlos Luis) Spegazzini</input>
+		<input>Carlo Luigi Carlos Luis Spegazzini</input>
 		<output>Speg.</output>
 	</replacement>
 	<replacement>
@@ -30329,11 +30333,11 @@
 		<output>Story</output>
 	</replacement>
 	<replacement>
-		<input>Georg Adolf (Adolph) Suckow</input>
+		<input>Georg Adolf Adolph Suckow</input>
 		<output>Suckow</output>
 	</replacement>
 	<replacement>
-		<input>Vladimir Nikolayevich Sukachev (Nikolajevich Sukaczev)</input>
+		<input>Vladimir Nikolayevich Sukachev Nikolajevich Sukaczev</input>
 		<output>Sukaczev</output>
 	</replacement>
 	<replacement>
@@ -30381,7 +30385,7 @@
 		<output>T.Hong</output>
 	</replacement>
 	<replacement>
-		<input>Thorvald (Thorwald) Julius Sørensen</input>
+		<input>Thorvald Thorwald Julius Sørensen</input>
 		<output>T.J.Sørensen</output>
 	</replacement>
 	<replacement>
@@ -30421,7 +30425,7 @@
 		<output>Tali</output>
 	</replacement>
 	<replacement>
-		<input>Tine (Jantine) Tammes</input>
+		<input>Tine Jantine Tammes</input>
 		<output>Tammes</output>
 	</replacement>
 	<replacement>
@@ -30445,7 +30449,7 @@
 		<output>Tepper</output>
 	</replacement>
 	<replacement>
-		<input>Theophrastus (Tyrtamus)</input>
+		<input>Theophrastus Tyrtamus</input>
 		<output>Theophr.</output>
 	</replacement>
 	<replacement>
@@ -30453,7 +30457,7 @@
 		<output>Thomson</output>
 	</replacement>
 	<replacement>
-		<input>Þorvaldur (Thorvaldur) Thoroddsen</input>
+		<input>Þorvaldur Thorvaldur Thoroddsen</input>
 		<output>Thoroddsen</output>
 	</replacement>
 	<replacement>
@@ -30465,7 +30469,7 @@
 		<output>Tindale</output>
 	</replacement>
 	<replacement>
-		<input>Johann Daniel Titius (Tietz)</input>
+		<input>Johann Daniel Titius Tietz</input>
 		<output>Titius</output>
 	</replacement>
 	<replacement>
@@ -30501,7 +30505,7 @@
 		<output>Vahl</output>
 	</replacement>
 	<replacement>
-		<input>Edvard (Edward) August Vainio</input>
+		<input>Edvard Edward August Vainio</input>
 		<output>Vain.</output>
 	</replacement>
 	<replacement>
@@ -30573,7 +30577,7 @@
 		<output>W.E.Rogers</output>
 	</replacement>
 	<replacement>
-		<input>Winsome Fanny ('Buddy') Barker</input>
+		<input>Winsome Fanny 'Buddy' Barker</input>
 		<output>W.F.Barker</output>
 	</replacement>
 	<replacement>
@@ -30613,7 +30617,7 @@
 		<output>W.Parry</output>
 	</replacement>
 	<replacement>
-		<input>Winifred Ann Pennington (Tutin)</input>
+		<input>Winifred Ann Pennington Tutin</input>
 		<output>W.Penn.</output>
 	</replacement>
 	<replacement>
@@ -30661,7 +30665,7 @@
 		<output>Warb.</output>
 	</replacement>
 	<replacement>
-		<input>(Jean Pierre) Adrien Warion</input>
+		<input>Jean Pierre Adrien Warion</input>
 		<output>Warion</output>
 	</replacement>
 	<replacement>
@@ -30701,7 +30705,7 @@
 		<output>Wied-Neuw.</output>
 	</replacement>
 	<replacement>
-		<input>Piotr Pawlus (Peter (Petrus) Paulus) Wierzbicki</input>
+		<input>Piotr Pawlus Peter Petrus Paulus Wierzbicki</input>
 		<output>Wierzb.</output>
 	</replacement>
 	<replacement>
@@ -30729,7 +30733,7 @@
 		<output>Windsor</output>
 	</replacement>
 	<replacement>
-		<input>Friedrich(Frederick) Adolph Wislizenus</input>
+		<input>FriedrichFrederick Adolph Wislizenus</input>
 		<output>Wisl.</output>
 	</replacement>
 	<replacement>
@@ -30785,7 +30789,7 @@
 		<output>Ziel.</output>
 	</replacement>
 	<replacement>
-		<input>Friedrich (or Friederich) Wilhelm Zopf</input>
+		<input>Friedrich or Friederich Wilhelm Zopf</input>
 		<output>Zopf</output>
 	</replacement>
 </replacements>
